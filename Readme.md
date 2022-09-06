@@ -4,11 +4,11 @@
 
 ## Preview
 
-![Landing Page](/Screenshot%202022-09-07%20014110.png)
+![Landing Page](/Screenshot%202022-09-07%20015126.png)
 
 ## Live Demo
 
-[Live link](https://project-12-business-landing-page-dp11.netlify.app/)
+[Live link](https://project-14-creativity-page-dp1108.netlify.app/)
 
 ## Technologies Used
 
